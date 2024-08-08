@@ -9,3 +9,5 @@ e는 이벤트 객체(Event Object)를 가리킵니다. JavaScript에서 이벤�
 DOMContentLoaded 이벤트는 웹 페이지의 HTML 문서가 모두 로드되고 DOM (Document Object Model)이 완전히 구성된 후에 발생합니다. 즉, 이 이벤트는 이미지, 스타일시트, 서브프레임 등 다른 리소스가 모두 로드되기 전에 발생합니다.
 
 Math.random()에서는 0이상 1미만 출력
+
+toggle: 클래스가 존재하면 제거, 없으면 추가
